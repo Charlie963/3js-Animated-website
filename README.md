@@ -1,2 +1,5 @@
-# 3js-Animated-website
-A 3D room set website developed using Three.js is a captivating and interactive online experience that combines cutting-edge technology with creative design to allow users to explore and interact with virtual interior spaces. Three.js is a JavaScript library that enables the creation of stunning 3D graphics and animations in web browsers
+# 3d-portfolio
+Personal Portfolio website designed using ThreeJS
+
+1. `npm install` to install dependencies.  
+2. `npm run dev` to start the development server.
